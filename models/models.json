@@ -1,0 +1,200 @@
+[
+    {
+        "epoches": 50,
+        "batche": 100,
+        "learning_rate": 2e-05,
+        "model": "models/trained_50_100_2e-05.h5"
+    },
+    {
+        "epoches": 50,
+        "batche": 100,
+        "learning_rate": 1e-05,
+        "model": "models/trained_50_100_1e-05.h5"
+    },
+    {
+        "epoches": 50,
+        "batche": 100,
+        "learning_rate": 4e-05,
+        "model": "models/trained_50_100_4e-05.h5"
+    },
+    {
+        "epoches": 100,
+        "batche": 100,
+        "learning_rate": 2e-05,
+        "model": "models/trained_100_100_2e-05.h5"
+    },
+    {
+        "epoches": 100,
+        "batche": 100,
+        "learning_rate": 1e-05,
+        "model": "models/trained_100_100_1e-05.h5"
+    },
+    {
+        "epoches": 100,
+        "batche": 100,
+        "learning_rate": 4e-05,
+        "model": "models/trained_100_100_4e-05.h5"
+    },
+    {
+        "epoches": 200,
+        "batche": 100,
+        "learning_rate": 2e-05,
+        "model": "models/trained_200_100_2e-05.h5"
+    },
+    {
+        "epoches": 200,
+        "batche": 100,
+        "learning_rate": 1e-05,
+        "model": "models/trained_200_100_1e-05.h5"
+    },
+    {
+        "epoches": 200,
+        "batche": 100,
+        "learning_rate": 4e-05,
+        "model": "models/trained_200_100_4e-05.h5"
+    },
+    {
+        "epoches": 500,
+        "batche": 100,
+        "learning_rate": 2e-05,
+        "model": "models/trained_500_100_2e-05.h5"
+    },
+    {
+        "epoches": 500,
+        "batche": 100,
+        "learning_rate": 1e-05,
+        "model": "models/trained_500_100_1e-05.h5"
+    },
+    {
+        "epoches": 500,
+        "batche": 100,
+        "learning_rate": 4e-05,
+        "model": "models/trained_500_100_4e-05.h5"
+    },
+    {
+        "epoches": 50,
+        "batche": 200,
+        "learning_rate": 2e-05,
+        "model": "models/trained_50_200_2e-05.h5"
+    },
+    {
+        "epoches": 50,
+        "batche": 200,
+        "learning_rate": 1e-05,
+        "model": "models/trained_50_200_1e-05.h5"
+    },
+    {
+        "epoches": 50,
+        "batche": 200,
+        "learning_rate": 4e-05,
+        "model": "models/trained_50_200_4e-05.h5"
+    },
+    {
+        "epoches": 100,
+        "batche": 200,
+        "learning_rate": 2e-05,
+        "model": "models/trained_100_200_2e-05.h5"
+    },
+    {
+        "epoches": 100,
+        "batche": 200,
+        "learning_rate": 1e-05,
+        "model": "models/trained_100_200_1e-05.h5"
+    },
+    {
+        "epoches": 100,
+        "batche": 200,
+        "learning_rate": 4e-05,
+        "model": "models/trained_100_200_4e-05.h5"
+    },
+    {
+        "epoches": 200,
+        "batche": 200,
+        "learning_rate": 2e-05,
+        "model": "models/trained_200_200_2e-05.h5"
+    },
+    {
+        "epoches": 200,
+        "batche": 200,
+        "learning_rate": 1e-05,
+        "model": "models/trained_200_200_1e-05.h5"
+    },
+    {
+        "epoches": 200,
+        "batche": 200,
+        "learning_rate": 4e-05,
+        "model": "models/trained_200_200_4e-05.h5"
+    },
+    {
+        "epoches": 500,
+        "batche": 200,
+        "learning_rate": 2e-05,
+        "model": "models/trained_500_200_2e-05.h5"
+    },
+    {
+        "epoches": 500,
+        "batche": 200,
+        "learning_rate": 1e-05,
+        "model": "models/trained_500_200_1e-05.h5"
+    },
+    {
+        "epoches": 500,
+        "batche": 200,
+        "learning_rate": 4e-05,
+        "model": "models/trained_500_200_4e-05.h5"
+    },
+    {
+        "epoches": 50,
+        "batche": 150,
+        "learning_rate": 2e-05,
+        "model": "models/trained_50_150_2e-05.h5"
+    },
+    {
+        "epoches": 50,
+        "batche": 150,
+        "learning_rate": 1e-05,
+        "model": "models/trained_50_150_1e-05.h5"
+    },
+    {
+        "epoches": 50,
+        "batche": 150,
+        "learning_rate": 4e-05,
+        "model": "models/trained_50_150_4e-05.h5"
+    },
+    {
+        "epoches": 100,
+        "batche": 150,
+        "learning_rate": 2e-05,
+        "model": "models/trained_100_150_2e-05.h5"
+    },
+    {
+        "epoches": 100,
+        "batche": 150,
+        "learning_rate": 1e-05,
+        "model": "models/trained_100_150_1e-05.h5"
+    },
+    {
+        "epoches": 100,
+        "batche": 150,
+        "learning_rate": 4e-05,
+        "model": "models/trained_100_150_4e-05.h5"
+    },
+    {
+        "epoches": 200,
+        "batche": 150,
+        "learning_rate": 2e-05,
+        "model": "models/trained_200_150_2e-05.h5"
+    },
+    {
+        "epoches": 200,
+        "batche": 150,
+        "learning_rate": 1e-05,
+        "model": "models/trained_200_150_1e-05.h5"
+    },
+    {
+        "epoches": 200,
+        "batche": 150,
+        "learning_rate": 4e-05,
+        "model": "models/trained_200_150_4e-05.h5"
+    }
+]

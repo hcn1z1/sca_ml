@@ -1,0 +1,38 @@
+<RCC>
+  <qresource prefix="assets/images">
+    <file>assets/images/config.png</file>
+    <file>assets/images/configuration.png</file>
+    <file>assets/images/giphy.gif</file>
+    <file>assets/images/icons8-ai-100.png</file>
+    <file>assets/images/icons8-browser-256.png</file>
+    <file>assets/images/icons8-cancel-96.png</file>
+    <file>assets/images/icons8-check-64 (1).png</file>
+    <file>assets/images/icons8-check-64.png</file>
+    <file>assets/images/icons8-dataset-96.png</file>
+    <file>assets/images/icons8-delete-192 (1).png</file>
+    <file>assets/images/icons8-delete-192.png</file>
+    <file>assets/images/icons8-download-52.png</file>
+    <file>assets/images/icons8-home-150.png</file>
+    <file>assets/images/icons8-macos-close-90.png</file>
+    <file>assets/images/icons8-macos-minimize-90.png</file>
+    <file>assets/images/icons8-minimize-100.png</file>
+    <file>assets/images/icons8-next-64.png</file>
+    <file>assets/images/icons8-previous-64.png</file>
+    <file>assets/images/icons8-reload-100.png</file>
+    <file>assets/images/icons8-result-96.png</file>
+    <file>assets/images/icons8-run-command-50.png</file>
+    <file>assets/images/icons8-save-30.png</file>
+    <file>assets/images/icons8-settings-50.png</file>
+    <file>assets/images/icons8-settings-64.png</file>
+    <file>assets/images/icons8-settings-150 (1).png</file>
+    <file>assets/images/icons8-settings-150.png</file>
+    <file>assets/images/icons8-true-false-96.png</file>
+    <file>assets/images/icons8-upload-52.png</file>
+    <file>assets/images/icons8-wait-100.png</file>
+    <file>assets/images/loading.gif</file>
+    <file>assets/images/logo.png</file>
+    <file>assets/images/recycle-60.png</file>
+    <file>assets/images/settings.jpg</file>
+    <file>assets/images/settings.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+pyside6
+pyqt5
+pyqtgraph
+h5py
+numpy
+tensorflow
